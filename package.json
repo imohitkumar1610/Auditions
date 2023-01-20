@@ -1,6 +1,6 @@
 {
   "name": "audtions-ieee",
-  "homepage": ".",
+  "homepage": "http://.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,5 +50,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "IEEE Auditions Website",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imohitkumar1610/Auditions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imohitkumar1610/Auditions/issues"
   }
 }
